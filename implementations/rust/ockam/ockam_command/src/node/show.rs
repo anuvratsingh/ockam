@@ -63,6 +63,7 @@ Node:
   Name: {}
   Status: {}
   API Address: {}
+  Hello
   Pid: {}
   Worker count: {}
   Transport count: {}
